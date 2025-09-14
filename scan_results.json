@@ -1,0 +1,316 @@
+{
+    "192.168.86.146": {
+        "hostname": "kali",
+        "guessed_os": "Unknown",
+        "mac": "Unknown",
+        "geoip": "Local",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "192.42.116.212": {
+        "hostname": "15.tor-exit.nothingtohide.nl",
+        "guessed_os": "Unknown",
+        "mac": "Unknown",
+        "geoip": "Amsterdam, The Netherlands",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2"
+        ],
+        "open_ports": {
+            "80": {
+                "service": "http",
+                "banner": ""
+            }
+        }
+    },
+    "162.159.200.1": {
+        "hostname": "time.cloudflare.com",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Toronto, Canada",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2"
+        ],
+        "open_ports": {}
+    },
+    "157.240.198.60": {
+        "hostname": "whatsapp-cdn-shv-01-del1.fbcdn.net",
+        "guessed_os": "Unknown",
+        "mac": "Unknown",
+        "geoip": "Noida, India",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2"
+        ],
+        "open_ports": {
+            "80": {
+                "service": "http",
+                "banner": ""
+            },
+            "443": {
+                "service": "https",
+                "banner": "\u0015\u0003\u0003\u0000\u0002\u0002\u0000"
+            }
+        }
+    },
+    "13.200.20.166": {
+        "hostname": "ec2-13-200-20-166.ap-south-1.compute.amazonaws.com",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Mumbai, India",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2"
+        ],
+        "open_ports": {}
+    },
+    "192.168.86.76": {
+        "hostname": "_gateway",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Local",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76",
+            "192.168.86.76"
+        ],
+        "open_ports": {
+            "53": {
+                "service": "domain",
+                "banner": ""
+            }
+        }
+    },
+    "139.84.163.234": {
+        "hostname": "139.84.163.234.vultrusercontent.com",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "None, None",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.2",
+            "255.0.0.3"
+        ],
+        "open_ports": {
+            "22": {
+                "service": "ssh",
+                "banner": "SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.11"
+            }
+        }
+    },
+    "224.0.0.22": {
+        "hostname": "igmp.mcast.net",
+        "guessed_os": "Unknown",
+        "mac": "Unknown",
+        "geoip": "None, None",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "14.139.60.106": {
+        "hostname": "www.time.nplindia.org",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Lucknow, India",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2"
+        ],
+        "open_ports": {}
+    },
+    "65.0.119.56": {
+        "hostname": "ec2-65-0-119-56.ap-south-1.compute.amazonaws.com",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "None, None",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.2",
+            "255.0.0.3"
+        ],
+        "open_ports": {}
+    },
+    "192.168.86.243": {
+        "hostname": "Unknown",
+        "guessed_os": "Router/IoT",
+        "mac": "Unknown",
+        "geoip": "Local",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243",
+            "192.168.86.243"
+        ],
+        "open_ports": {}
+    },
+    "224.0.0.251": {
+        "hostname": "mdns.mcast.net",
+        "guessed_os": "Router/IoT",
+        "mac": "Unknown",
+        "geoip": "None, None",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "162.159.200.123": {
+        "hostname": "time.cloudflare.com",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "None, None",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2"
+        ],
+        "open_ports": {}
+    },
+    "95.216.144.226": {
+        "hostname": "ntp2.ggsrv.de",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "None, None",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2",
+            "103.198.140.174"
+        ],
+        "open_ports": {
+            "22": {
+                "service": "ssh",
+                "banner": "RpqU_R}5FLv"
+            }
+        }
+    },
+    "192.46.211.253": {
+        "hostname": "ntp6.mum-in.hosts.301-moved.de",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "None, None",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.2",
+            "255.0.0.3"
+        ],
+        "open_ports": {}
+    },
+    "192.168.86.78": {
+        "hostname": "Unknown",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Local",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "192.168.86.255": {
+        "hostname": "Unknown",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Local",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "17.253.18.131": {
+        "hostname": "Unknown",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Unknown",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "140.82.114.26": {
+        "hostname": "Unknown",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Unknown",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "239.255.255.250": {
+        "hostname": "Unknown",
+        "guessed_os": "Router/IoT",
+        "mac": "Unknown",
+        "geoip": "Unknown",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "95.216.192.15": {
+        "hostname": "Unknown",
+        "guessed_os": "Linux/Unix",
+        "mac": "Unknown",
+        "geoip": "Unknown",
+        "ssl": {},
+        "traceroute": [],
+        "open_ports": {}
+    },
+    "94.16.113.35": {
+        "hostname": "v2202404118209265035.bestsrv.de",
+        "guessed_os": "Unknown",
+        "mac": "Unknown",
+        "geoip": "Nuremberg, Germany",
+        "ssl": {},
+        "traceroute": [
+            "192.168.86.76",
+            "255.0.0.0",
+            "255.0.0.3",
+            "255.0.0.2"
+        ],
+        "open_ports": {
+            "443": {
+                "service": "https",
+                "banner": ""
+            },
+            "22": {
+                "service": "ssh",
+                "banner": "SSH-2.0-OpenSSH_9.6 FreeBSD-20240104"
+            }
+        }
+    }
+}
